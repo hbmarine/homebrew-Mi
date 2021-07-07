@@ -9,4 +9,4 @@ Usage
 
 .. code-block:: sh
 
-    $ brew tap Julian/tap
+    $ brew tap hbmarine/homebrew-Mi
